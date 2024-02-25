@@ -1,0 +1,1 @@
+Nesse exercicio a Professora pedio para que nós fizessemos 4 exercicios de logica de programação usando JS, linkados por uma home (index.html), ela falou que não se importaria com a beleza do site >:D
